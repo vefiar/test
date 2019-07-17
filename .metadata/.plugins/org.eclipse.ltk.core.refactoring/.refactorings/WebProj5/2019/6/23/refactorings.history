@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;style.css&apos; to &apos;css&apos;&#x0D;&#x0A;- 元のプロジェクト: &apos;WebProj5&apos;&#x0D;&#x0A;- 宛先要素: &apos;css&apos;&#x0D;&#x0A;- オリジナル要素: &apos;style.css&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="ファイルを移動する" element1="WebContent/style.css" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1559904112925" target="WebContent/css" units="0" version="1.0"/>
+</session>

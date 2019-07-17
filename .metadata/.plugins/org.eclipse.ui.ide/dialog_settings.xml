@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\testuser\Desktop\workspace\workspace-yamamoto\template"/>
+			<item value="C:\Users\testuser\Desktop\workspace\workspace-yamamoto\WebProj5"/>
+			<item value="C:\Users\testuser\Desktop\workspace\workspace-yamamoto\WebProj4"/>
+			<item value="C:\Users\testuser\Desktop\workspace\workspace-yamamoto\WebProj3"/>
+			<item value="C:\Users\testuser\Desktop\workspace\workspace-yamamoto\WebProj2"/>
+			<item value="C:\Users\testuser\Desktop\workspace\workspace-yamamoto\WebProj"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>
