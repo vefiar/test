@@ -38,6 +38,25 @@
 <entry path="C:\pleiades\java\6\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
+<libraryInfo home="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre" version="1.8.0_74">
+<bootpath>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\resources.jar"/>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\rt.jar"/>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\sunrsasign.jar"/>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\jsse.jar"/>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\jce.jar"/>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\charsets.jar"/>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\jfr.jar"/>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="E:\pleiades-e4.5-java-jre_20160312\pleiades\eclipse\jre\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
 <libraryInfo home="C:\pleiades\java\7" version="1.7.0_80">
 <bootpath>
 <entry path="C:\pleiades\java\7\jre\lib\resources.jar"/>
